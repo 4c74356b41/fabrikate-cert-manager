@@ -1,0 +1,10 @@
+{
+    "config": {},
+    "subcomponents": {
+        "cert-manager": {
+            "config": {
+                "namespace": "cert-manager"
+            }
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "config": {},
+    "subcomponents": {
+        "cert-manager": {
+            "config": {
+                "createCustomResource": true,
+                "rbac": {
+                    "create": true
+                },
+                "version": "0.4.0"
+            }
+        }
+    }
+}
