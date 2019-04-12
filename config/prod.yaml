@@ -1,7 +1,0 @@
-namespace: cert-manager
-config:
-subcomponents:
-  cert-manager:
-    namespace: cert-manager
-    config:
-      clusterResourceNamespace: kube-system
