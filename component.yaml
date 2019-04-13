@@ -4,6 +4,6 @@ path: "./manifests"
 subcomponents:
 - name: cert-manager
   generator: helm
-  repo: https://github.com/helm/charts
+  source: https://github.com/helm/charts
   path: stable/cert-manager
   method: git
